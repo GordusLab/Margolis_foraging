@@ -1,6 +1,6 @@
 # Margolis_foraging
 
-The following files were used for the Margolis & Gordus manuscript:
+The following files were used for the Margolis & Gordus manuscript (eLife2025;14:RP104972 DOI: https://doi.org/10.7554/eLife.104972.4):
 
 N2_cumevents_matrix.mat: This matlab file was provided by Alejandro Lopez-Cruz, and is the quantification of reorientation events from:
 
